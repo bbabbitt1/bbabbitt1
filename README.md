@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bbabbitt1
-- 👀 I’m interested in data analytics, data science, and statistics
-- 🌱 I’m currently learning python
+- Data Visualization Expert -- Sr. Data Analyst & Freelancer
 - 📫 How to reach me [linkedin.com/barrybabbitt1](https://www.linkedin.com/in/barrybabbitt1/)
 
 <!---
